@@ -124,7 +124,11 @@ public class WebeleExample {
 	    
 	    na.perform();
 		
+	    // sample enterypdate
 		
+	    
+	    
+	    //server u
 		//web.keyBoardAction();
 		
 		//web.sele();
